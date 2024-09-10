@@ -1,8 +1,26 @@
-# React + Vite
+# React-Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
+ - [Description](#Description)
+ - [Installation](#Installation)
+ - [License](#License)
+ - [Questions](#Questions)
 
-Currently, two official plugins are available:
+## Description 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A simple web application to show my coding projects. 
+
+## Installation 
+
+Visit the deployed URL: https://mank-portfolio.netlify.app/.
+
+You may also visit the GitHub repositiory at this [link.](https://github.com/mankovich/react-portfolio)
+
+## License
+
+ **WTFPL** [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
+
+## Questions
+My GitHub username is mankovich, and you may access my GitHub profile by clicking this [link.](https://www.github.com/mankovich)
+
+If you have any questions, please send them to me at jpmankovich@gmail.com.
