@@ -21,7 +21,7 @@ function Header() {
 
                         <Nav variant="tabs" defaultActiveKey={location.pathname} className="justify-content-end">
                             <Nav.Item >
-                                <Nav.Link href="/aboutme" className="page-tab">About Me</Nav.Link>
+                                <Nav.Link href="/" className="page-tab">About Me</Nav.Link>
 
                             </Nav.Item>
                             <Nav.Item>
