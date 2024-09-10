@@ -1,0 +1,21 @@
+#full-footer {
+    background-color: teal;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 50px;
+}
+
+#github-link, 
+#linkedin-link {
+    color: yellow;
+    padding-top: 10px;
+}
+
+
+#copyright {
+    padding-top: 15px;
+    position: fixed;
+    right: 20px;
+    bottom: 0px;
+}
